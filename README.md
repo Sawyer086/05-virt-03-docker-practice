@@ -95,6 +95,9 @@ See 'snap info docker' for additional versions.
 
 # Ответ:
 
+## Задача 0
+![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/0/0.jpg)
+
 ## Задача 1:
 ![1]
 ![2]
