@@ -106,7 +106,8 @@ See 'snap info docker' for additional versions.
 ![4](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.3.jpg)
 
 ## Задача 3:
-[3](https://github.com/Sawyer086/05-virt-03-docker-practice/tree/main/3) [текст](#я-ссылка)
+ [Ссылочка на файлы](https://github.com/Sawyer086/05-virt-03-docker-practice/tree/main/3)
+ 
 sudo nano compose.yaml
 ```sql
 version: '3.8'
@@ -153,6 +154,7 @@ networks:
       config:
         - subnet: 172.20.0.0/24
 ```
+
 ![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/3/3.0.jpg)
 ![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/3/3.1.jpg)
 
