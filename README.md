@@ -106,7 +106,7 @@ See 'snap info docker' for additional versions.
 ![4](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.3.jpg)
 
 ## Задача 3:
-
+[3](https://github.com/Sawyer086/05-virt-03-docker-practice/tree/main/3) [текст](#я-ссылка)
 sudo nano compose.yaml
 ```sql
 version: '3.8'
