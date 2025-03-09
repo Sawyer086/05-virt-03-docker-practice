@@ -160,6 +160,7 @@ networks:
 
 ## Задача 4:
 
+https://github.com/Sawyer086/shvirtd-example-python
 
 ## Задача 5:
 
