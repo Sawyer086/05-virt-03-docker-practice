@@ -160,7 +160,8 @@ networks:
 
 ## Задача 4:
 Создаю ВМ Yandex Cloud. 
-Устанавливаю вручную docker, docker compose, git. Клонирую форкнутый репозиторий, в который ранее запушил 5 файлов, в том числе и скрипт bash. 
+Устанавливаю вручную docker, docker compose.
+
 
 [Ссылка на fork репозиторий] (https://github.com/Sawyer086/shvirtd-example-python)
 
