@@ -159,8 +159,10 @@ networks:
 ![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/3/3.1.jpg)
 
 ## Задача 4:
+Создаю ВМ Yandex Cloud. 
+Устанавливаю вручную docker, docker compose, git. Клонирую форкнутый репозиторий, в который ранее запушил 5 файлов, в том числе и скрипт bash. 
 
-https://github.com/Sawyer086/shvirtd-example-python
+[Ссылка на fork репозиторий] (https://github.com/Sawyer086/shvirtd-example-python)
 
 ## Задача 5:
 
