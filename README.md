@@ -176,7 +176,7 @@ networks:
 
 ![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/4/4.0.jpg)
 
-
+[bash скрипт](https://github.com/Sawyer086/05-virt-03-docker-practice/tree/main/4)
 
 ## Задача 5:
 
