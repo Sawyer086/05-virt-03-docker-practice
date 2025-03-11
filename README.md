@@ -101,7 +101,7 @@ See 'snap info docker' for additional versions.
 
 ## Задача 1:
 ![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.0.jpg)
-
+![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.1.jpg)
 ---
 
 Dockerfile.python
