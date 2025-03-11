@@ -167,7 +167,7 @@ networks:
       config:
         - subnet: 172.20.0.0/24
 ```
-
+[Fork репозиторий](https://github.com/Sawyer086/shvirtd-example-python)
 ## Задача 4:
 Создаю ВМ Yandex Cloud. 
 Устанавливаю вручную docker, docker compose.
