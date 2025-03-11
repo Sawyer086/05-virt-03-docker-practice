@@ -119,7 +119,8 @@ CMD ["python", "main.py"]
 ## Задача 3:
 ![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/3/3.0.jpg)
 ![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/3/3.1.jpg)
- 
+
+---
 compose.yaml
 ```sql
 version: '3.8'
