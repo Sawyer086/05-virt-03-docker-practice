@@ -101,9 +101,6 @@ See 'snap info docker' for additional versions.
 
 ## Задача 1:
 ![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.0.jpg)
-![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.1.jpg)
-![3](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.2.jpg)
-![4](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.3.jpg)
 
 ## Задача 3:
  [Ссылочка на файлы](https://github.com/Sawyer086/05-virt-03-docker-practice/tree/main/3)
