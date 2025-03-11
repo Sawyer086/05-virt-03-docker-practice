@@ -107,53 +107,9 @@ See 'snap info docker' for additional versions.
  
 sudo nano compose.yaml
 ```sql
-version: '3.8'
 
-include:
-  - proxy.yaml
-
-services:
-  db:
-    image: mysql:8
-    environment:
-      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
-      - MYSQL_DATABASE=${MYSQL_DATABASE}
-      - MYSQL_USER=${MYSQL_USER}
-      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
-      - MYSQL_ROOT_HOST=%
-    ports:
-      - "3306:3306"
-    networks:
-      backend:
-        ipv4_address: 172.20.0.10
-
-  web:
-    build:
-      context: .
-      dockerfile: Dockerfile.python
-    ports:
-      - "5000:5000"
-    depends_on:
-      - db
-    environment:
-      - DB_NAME=${MYSQL_DATABASE}
-      - DB_USER=${MYSQL_USER}
-      - DB_PASSWORD=${MYSQL_PASSWORD}
-      - DB_HOST=db
-    networks:
-      backend:
-        ipv4_address: 172.20.0.5
-
-networks:
-  backend:
-    driver: bridge
-    ipam:
-      config:
-        - subnet: 172.20.0.0/24
 ```
 
-![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/3/3.0.jpg)
-![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/3/3.1.jpg)
 
 ## Задача 4:
 Создаю ВМ Yandex Cloud. 
