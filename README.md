@@ -102,10 +102,26 @@ See 'snap info docker' for additional versions.
 ## Задача 1:
 ![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/1/1.0.jpg)
 
+---
+
+Dockerfile.python
+```sql 
+FROM python:3.9-slim
+WORKDIR /app
+COPY requirements.txt ./
+RUN pip install -r requirements.txt
+COPY haproxy ./
+COPY nginx ./
+COPY . .
+CMD ["python", "main.py"]
+```
+
 ## Задача 3:
  [Ссылочка на файлы](https://github.com/Sawyer086/05-virt-03-docker-practice/tree/main/3)
  
 sudo nano compose.yaml
+
+
 ```sql
 
 ```
