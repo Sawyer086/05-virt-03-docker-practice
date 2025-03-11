@@ -170,8 +170,9 @@ networks:
 [Fork репозиторий](https://github.com/Sawyer086/shvirtd-example-python)
 
 ## Задача 4:
-Создаю ВМ Yandex Cloud. 
-Устанавливаю вручную docker, docker compose.
+Создаю ВМ Yandex Cloud;
+
+Устанавливаю docker, docker compose.
 
 ![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/4/4.0.jpg)
 
