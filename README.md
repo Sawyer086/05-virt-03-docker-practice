@@ -170,6 +170,7 @@ networks:
 [Fork репозиторий](https://github.com/Sawyer086/shvirtd-example-python)
 
 ## Задача 4:
+
 Создаю ВМ Yandex Cloud;
 
 Устанавливаю docker, docker compose.
@@ -178,7 +179,14 @@ networks:
 
 [bash скрипт](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/4/script.sh)
 
-## Задача 5:
+## Задача 6:
 
+![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/6/6.0.jpg)
+![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/6/6.1.jpg)
+![2](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/6/6.2.jpg)
+![3](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/6/6.3.jpg)
 
+## Задача 6.1:
+
+![1](https://github.com/Sawyer086/05-virt-03-docker-practice/blob/main/6/6.4.jpg)
 
